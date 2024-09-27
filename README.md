@@ -41,12 +41,12 @@ Passo 8: Medir a performance dos algoritmos treinados com os melhores parâmetro
 
 Passo 9: Avaliar os ensaios e anotar os 3 principais Insights que se destacaram.
 # Os top 3 Insights
-### Insight Top 1
-Os algoritmos baseado em árvores possuem uma performance melhores em todas as métricas, quando aplicados sobre os dados de teste, no ensaio de Classificação.
+## Insight Top 1
+Os algoritmos baseado em árvores, principalmente o Random Forest possuí uma melhor performance tanto em algoritmos de regressão quanto de classificação.
 ## Insight Top 2
-A performance dos algoritmos de classificação sobre os dados de validação ficou bem próxima da performance sobre os dados de teste.
+A performance dos algoritmos de classificação sobre os dados de validação ficou bem próxima da performance sobre os dados de teste, demonstrando uma boa generalização.
 ## Insight Top 3
-Todos os algoritmo de regressão não apresentaram boas métricas de performance, o que mostra uma necessidade de uma seleção de atributos e uma preparação melhor das variáveis independentes do conjunto de dados.
+Todos os algoritmo de regressão não apresentaram boas métricas de performance, o que mostra uma necessidade de uma seleção de atributos e uma preparação melhor das variáveis independentes do conjunto de dados, após uma breve análise reconheci alguns outliers que podem ser os responsaveis pelo baixo desempenho.
 # Resultados
 ## Ensaio de classificação:
 ### Sobre os dados de treinamento
