@@ -63,7 +63,7 @@ Todos os algoritmo de regressão não apresentaram boas métricas de performance
 ### Sobre os dados de teste
 ![regressao_teste]( img/test_regressao.png)
 ## Ensaio de clusterização:
-![clusterizacao_treinamento]( img/classificacao.png)
+![clusterizacao_treinamento]( img/clusterizacao.png)
 # Conclusão
 Nesse ensaio de Machine Learning, consegui adquirir experiência e entender melhor sobre os limites dos algoritmos entre os estados de underffiting e overfitting. 
 
