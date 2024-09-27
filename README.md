@@ -50,22 +50,20 @@ Todos os algoritmo de regressão não apresentaram boas métricas de performance
 # Resultados
 ## Ensaio de classificação:
 ### Sobre os dados de treinamento
-![classificacao_treinamento](
-img/ensaio_classificacao_dados_treinamento.png)
+![classificacao_treinamento](img/train_classificacao.png)
 ### Sobre os dados de validação
-![classificacao_validacao](
-img/ensaio_classificacao_dados_validacao.png)
+![classificacao_validacao](img/val_classificacao.png)
 ### Sobre os dados de teste
-![classificacao_teste]( img/ensaio_classificacao_dados_teste.png)
+![classificacao_teste]( img/test_classificacao.png)
 ## Ensaio de regressão:
 ### Sobre os dados de treinamento
-![regressao_treinamento]( img/ensaio_regressao_dados_treinamento.png)
+![regressao_treinamento]( img/train_regressao.png)
 ### Sobre os dados de validação
-![regressao_validacao]( img/ensaio_regressao_dados_validacao.png)
+![regressao_validacao]( img/val_regressao.png)
 ### Sobre os dados de teste
-![regressao_teste]( img/ensaio_regressao_dados_teste.png)
+![regressao_teste]( img/test_regressao.png)
 ## Ensaio de clusterização:
-![clusterizacao_treinamento]( img/ensaio_clusterizacao.png)
+![clusterizacao_treinamento]( img/classificacao.png)
 # Conclusão
 Nesse ensaio de Machine Learning, consegui adquirir experiência e entender melhor sobre os limites dos algoritmos entre os estados de underffiting e overfitting. 
 
